@@ -218,6 +218,8 @@
   "documentFilter.comparator": "Comparator",
   "documentFilter.addRule": "Add rule",
   "documentFilter.removeRule": "Remove rule {number}",
+  "documentFilter.has": "Has",
+  "documentFilter.hasNot": "Has not",
   "comparator": "Operator",
   "value": "Value",
   "contentType": "Content type",

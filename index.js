@@ -7,6 +7,7 @@ export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentFilter } from './lib/DocumentFilter';
 export { default as DocumentFilterForm } from './lib/DocumentFilter/DocumentFilterForm';
 export { default as DocumentFilterFieldArray } from './lib/DocumentFilter/DocumentFilterFieldArray';
+export { default as DocumentFilterArray } from './lib/DocumentFilter/DocumentFilterArray';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
 export { default as DuplicateModal } from './lib/DuplicateModal';
 export { default as EditCard } from './lib/EditCard';
